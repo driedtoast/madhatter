@@ -1,3 +1,23 @@
 
-Need to add more to this
+The purpose of the project is to provide a way to manage large scale environments within an cloud/virtualized infrastructure. The target platform will be the following:
 
+* Redhat
+* Fedora
+* Centos
+
+Some projects is may rely on are:
+
+* Cobbler
+* Facter
+
+The main features will be:
+
+* Configuration management for applications
+* Allowing a machine to get an inventory list of what should be installed
+* Application vs Master keys for authentication
+* Event based configuration updates
+* Stereotyping for a large environment
+* Infrastructure definition and management
+
+
+The main language will be python
